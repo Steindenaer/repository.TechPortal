@@ -56,7 +56,7 @@ COLOR1         = 'BF9D6E48'
 COLOR2         = 'ghostwhite'
 
 # Primary menu items   / %s is the menu item and is required
-THEME1         = '[B][COLOR '+COLOR1+']TPTV >[/COLOR]  [I][COLOR '+COLOR2+']%s[/COLOR][/I][/B]'
+THEME1         = '[B][COLOR '+COLOR1+']TPTV >[/COLOR][/B]  [I][COLOR '+COLOR2+']%s[/COLOR][/I]'
 # Build Names          / %s is the menu item and is required
 THEME2         = '[COLOR '+COLOR2+']%s[/COLOR]'
 # Alternate items      / %s is the menu item and is required
@@ -90,9 +90,9 @@ AUTOINSTALL    = 'Yes'
 # Addon ID for the repository
 REPOID         = 'repository.TPTV'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'http://install.tech-portal.tv/REPO/addon.xml'
+REPOADDONXML   = 'https://github.com/Steindenaer/repository.TechPortal/blob/master/repository.TPTV/addon.xml'
 # Url to folder zip is located in
-REPOZIPURL     = 'http://install.tech-portal.tv/REPO/'
+REPOZIPURL     = 'hhttps://github.com/Steindenaer/repository.TechPortal/tree/master/zips/repository.TPTV'
 #########################################################
 
 #########################################################
