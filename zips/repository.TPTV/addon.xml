@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.TPTV"
 		name="   [B][COLOR=BF9D6E48]• TPTV[/COLOR] [COLOR=ghostwhite]'s Repository[/COLOR][/B]"
-		version="1.1a"
+		version="0.1.1a"
 		provider-name="[B][COLOR=BF9D6E48]_Steindenaer[/COLOR] [COLOR=ghostwhite]TPTV Founder[/COLOR][/B]">
 	<extension point="xbmc.addon.repository"
 		name="[B][COLOR=BF9D6E48]T[/COLOR][COLOR=white]ECH-[/COLOR][COLOR=BF9D6E48]P[/COLOR][COLOR=white]ORTAL[/COLOR] [COLOR=BF9D6E48]REPO[/COLOR][/B]">
