@@ -1,4 +1,4 @@
-#Ts repository
+#T's repository
 
 This is my repository. I can and will do whatever I want with it. Some stuff in here can and will overwrite allready installed addons.
 If you do not want that, do not install this repo!  
