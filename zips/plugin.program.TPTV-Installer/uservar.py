@@ -90,9 +90,9 @@ AUTOINSTALL    = 'Yes'
 # Addon ID for the repository
 REPOID         = 'repository.TPTV'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'https://github.com/Steindenaer/repository.TechPortal/raw/master/repository.TPTV/addon.xml'
+REPOADDONXML   = 'https://raw.githubusercontent.com/Steindenaer/repository.TechPortal/master/repository.TPTV/addon.xml'
 # Url to folder zip is located in
-REPOZIPURL     = 'https://github.com/Steindenaer/repository.TechPortal/raw/master/zips/repository.TPTV'
+REPOZIPURL     = 'https://raw.githubusercontent.com/Steindenaer/repository.TechPortal/master/zips/repository.TPTV'
 #########################################################
 
 #########################################################
