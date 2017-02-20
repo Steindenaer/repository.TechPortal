@@ -1,6 +1,6 @@
 <addon id="plugin.program.TPTV-Installer" 
 name="   [B][COLOR=BF9D6E48]• TPTV[/COLOR][COLOR=ghostwhite]-Installer[/COLOR][/B]"
-version="0.1.1a5" 
+version="0.1.1a6" 
 provider-name="[B][COLOR=BF9D6E48]_Steindenaer[/COLOR][/B] [COLOR=ghostwhite]TPTV Founder[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
