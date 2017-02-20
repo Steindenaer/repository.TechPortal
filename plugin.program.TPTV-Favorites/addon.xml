@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.TPTV-Favorites" 
+name="[B][COLOR=BF9D6E48]TPTV[/COLOR][/B][COLOR=ghostwhite]-Favourites[/COLOR]"
+version="0.1.1d" 
+provider-name="[B][COLOR=BF9D6E48]_Steindenaer[/COLOR][/B] [COLOR=ghostwhite]TPTV Founder[/COLOR]">
+<requires>
+  <import addon="xbmc.python" version="2.20.0"/>
+  <import addon="script.module.xbmcswift2" version="2.4.0"/>
+  <import addon="script.module.requests" version="2.9.1" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>executable</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Simple Favourites</summary>
+  <description lang="en"></description>
+  <disclaimer lang="en">.</disclaimer>
+</extension>
+</addon>
+
