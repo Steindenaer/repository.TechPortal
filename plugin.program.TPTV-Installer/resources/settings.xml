@@ -9,7 +9,7 @@
 		<setting id="lastbuildcheck" type="text" label="Next check for build update: " enable="false" default=""/>
 		<setting id="disableupdate" type="bool" label="Disable Update Notification" default="false"/>
 		<setting type="lsep" label="Show Builds:"/>
-		<setting id="show15" type="bool" label="Show Isengard(v15.0) and Below Builds" default="false"/>
+		<setting id="show15" type="bool" label="Show Isengard(v15.0) and Below Builds" default="true"/>
 		<setting id="show16" type="bool" label="Show Jarvis(v16.0) Builds" default="true"/>
 		<setting id="show17" type="bool" label="Show Krypton(v17.0) Builds" default="true"/>
 		<setting id="seperate" type="bool" label="Do not seperate based off version" default="false"/>
@@ -118,7 +118,7 @@
 	</category>
 
 	<category label="Misc Settings">
-		<setting id="developer" type="bool" label="Show Developer Menu: " enable="true" default="true"/>
+		<setting id="developer" type="bool" label="Show Developer Menu: " enable="true" default=""/>
 		<setting id="adult" type="bool" label="Show Adult Addons: " enable="true" default="false"/>
 		<setting id="auto-view" type="bool" label="Enable Auto View" default="true"/>
 		<setting id="viewType" type="number" label="View Type" default="50" enable="!eq(-1,false)"/>

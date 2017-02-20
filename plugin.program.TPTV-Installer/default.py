@@ -102,7 +102,7 @@ KEEPLOGIN        = wiz.getS('keeplogin')
 LOGINSAVE        = wiz.getS('loginlastsave')
 DEVELOPER        = wiz.getS('developer')
 BACKUPLOCATION   = ADDON.getSetting('path') if not ADDON.getSetting('path') == '' else 'special://home/'
-LUR              = base64.b64decode('aHR0cDovL2luc3RhbGwudGVjaC1wb3J0YWwudHYvcGFzc3dvcmQvcGFzcy54bWw=')
+LUR              = base64.b64decode('aHR0cDovL3dpemFyZC50ZWNoLXBvcnRhbC50di9wYXNzLnhtbA==')
 MYBUILDS         = os.path.join(BACKUPLOCATION, 'My_Builds', '')
 AUTOFEQ          = int(float(AUTOFEQ)) if AUTOFEQ.isdigit() else 0
 TODAY            = date.today()
